@@ -25,7 +25,7 @@
 			"text" :
 			[
 				{
-					"title" : "Maecenas ut mauris at dolor rhoncus rhoncus",
+					"title" : "Santons Wallons.",
 					"bgColor" : "0x32a692",
 					"bgAlpha" : 0.95,
 					"fontSize" : 30,
@@ -33,8 +33,8 @@
 					"textWidth" : 450
 				},
 				{
-					"title" : "Sed eros quam, consectetur vitae suscipit eget tellu",
-					"link" : "",
+					"title" : "Robert Noihomme, santonnier",
+					"link" : "http://www.santons.be",
 					"bgColor" : "0xffffff",
 					"bgAlpha" : 0.95,
 					"fontSize" : 18,
@@ -42,7 +42,7 @@
 					"textWidth" : 450
 				},
 				{
-					"title" : "Donec luctus vestibulum erat sed dignissim",
+					"title" : "Paul Wathelet",
 					"link" : "gallery-style1",
 					"bgColor" : "0x32a692",
 					"bgAlpha" : 0.95,
@@ -66,8 +66,8 @@
 			"text" :
 			[
 				{
-					"title" : "Nunc vitae nisl vitae ante lacinia dictum pulvinar",
-					"link" : "gallery-style3",
+					"title" : "Robert Noirhomme, santonnier",
+					"link" : "http://www.santons.be/",
 					"bgColor" : "0x32a692",
 					"bgAlpha" : 0.95,
 					"fontSize" : 30,
@@ -75,7 +75,8 @@
 					"textWidth" : 450
 				},
 				{
-					"title" : "Etiam commodo placerat nulla eu euismod",
+					"title" : "Santons Wallons",
+					"link" : "http://www.santons.be/",
 					"bgColor" : "0xffffff",
 					"bgAlpha" : 0.95,
 					"fontSize" : 18,
@@ -83,7 +84,8 @@
 					"textWidth" : 370
 				},
 				{
-					"title" : "Morbi rutrum pulvinar purus quis",
+					"title" : "www.santons.be",
+					"link" : "http://www.santons.be/",
 					"bgColor" : "0x32a692",
 					"bgAlpha" : 0.95,
 					"fontSize" : 18,
@@ -106,7 +108,8 @@
 			"text" :
 			[
 				{
-					"title" : "In blandit orci sed tellus iaculis dapibus",
+					"title" : "Santons Wallons",
+					"link" : "http://www.santons.be/",
 					"bgColor" : "0x32a692",
 					"bgAlpha" : 0.95,
 					"fontSize" : 30,
@@ -114,8 +117,8 @@
 					"textWidth" : 450
 				},
 				{
-					"title" : "Etiam commodo placerat nulla eu euismod",
-					"link" : "http://themeforest.net/",
+					"title" : "Robert Noirhomme, santonnier",
+					"link" : "http://www.santons.be/",
 					"bgColor" : "0xffffff",
 					"bgAlpha" : 0.95,
 					"fontSize" : 18,
@@ -123,7 +126,8 @@
 					"textWidth" : 380
 				},
 				{
-					"title" : "Morbi rutrum pulvinar purus quis",
+					"title" : "http://www.santons.be/",
+					"link" : "http://www.santons.be/",
 					"bgColor" : "0x32a692",
 					"bgAlpha" : 0.95,
 					"fontSize" : 18,
