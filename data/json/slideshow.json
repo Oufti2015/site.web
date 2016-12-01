@@ -1,0 +1,136 @@
+﻿{
+	"setting" :
+	{
+		"duration" : 5,
+		"disableImageZoom" : false,
+		"marginLeft" : 0,
+		"marginRight" : 0,
+		"marginTop" : 0,
+		"marginBottom" : 0
+	},
+
+	"data" :
+	[
+		{
+			"imageurl" : "data/images/slideshow/01.jpg",
+			"deviceImageurl" : "data/images/slideshow/device/01.jpg",
+			"imageAlign" : "ct",
+			"x" : 100,
+			"y" : 200,
+			"align" : "left,top",
+			"deviceX" : 50,
+			"deviceY" : 450,
+			"deviceAlign" : "left,bottom",
+			"gap" : 5,
+			"text" :
+			[
+				{
+					"title" : "Maecenas ut mauris at dolor rhoncus rhoncus",
+					"bgColor" : "0x32a692",
+					"bgAlpha" : 0.95,
+					"fontSize" : 30,
+					"textColor" : "0xffffff",
+					"textWidth" : 450
+				},
+				{
+					"title" : "Sed eros quam, consectetur vitae suscipit eget tellu",
+					"link" : "",
+					"bgColor" : "0xffffff",
+					"bgAlpha" : 0.95,
+					"fontSize" : 18,
+					"textColor" : "0x32a692",
+					"textWidth" : 450
+				},
+				{
+					"title" : "Donec luctus vestibulum erat sed dignissim",
+					"link" : "gallery-style1",
+					"bgColor" : "0x32a692",
+					"bgAlpha" : 0.95,
+					"fontSize" : 18,
+					"textColor" : "0xffffff",
+					"textWidth" : 380
+				}
+			]
+		},
+		{
+			"imageurl" : "data/images/slideshow/02.jpg",
+			"deviceImageurl" : "data/images/slideshow/device/02.jpg",
+			"imageAlign" : "ct",
+			"x" : 100,
+			"y" : 250,
+			"align" : "left,top",
+			"deviceX" : 50,
+			"deviceY" : 450,
+			"deviceAlign" : "left,bottom",
+			"gap" : 5,
+			"text" :
+			[
+				{
+					"title" : "Nunc vitae nisl vitae ante lacinia dictum pulvinar",
+					"link" : "gallery-style3",
+					"bgColor" : "0x32a692",
+					"bgAlpha" : 0.95,
+					"fontSize" : 30,
+					"textColor" : "0xffffff",
+					"textWidth" : 450
+				},
+				{
+					"title" : "Etiam commodo placerat nulla eu euismod",
+					"bgColor" : "0xffffff",
+					"bgAlpha" : 0.95,
+					"fontSize" : 18,
+					"textColor" : "0x32a692",
+					"textWidth" : 370
+				},
+				{
+					"title" : "Morbi rutrum pulvinar purus quis",
+					"bgColor" : "0x32a692",
+					"bgAlpha" : 0.95,
+					"fontSize" : 18,
+					"textColor" : "0xffffff",
+					"textWidth" : 300
+				}
+			]
+		},
+		{
+			"imageurl" : "data/images/slideshow/03.jpg",
+			"deviceImageurl" : "data/images/slideshow/device/03.jpg",
+			"imageAlign" : "c",
+			"x" : 50,
+			"y" : 200,
+			"align" : "right,top",
+			"deviceX" : 50,
+			"deviceY" : 450,
+			"deviceAlign" : "left,bottom",
+			"gap" : 5,
+			"text" :
+			[
+				{
+					"title" : "In blandit orci sed tellus iaculis dapibus",
+					"bgColor" : "0x32a692",
+					"bgAlpha" : 0.95,
+					"fontSize" : 30,
+					"textColor" : "0xffffff",
+					"textWidth" : 450
+				},
+				{
+					"title" : "Etiam commodo placerat nulla eu euismod",
+					"link" : "http://themeforest.net/",
+					"bgColor" : "0xffffff",
+					"bgAlpha" : 0.95,
+					"fontSize" : 18,
+					"textColor" : "0x32a692",
+					"textWidth" : 380
+				},
+				{
+					"title" : "Morbi rutrum pulvinar purus quis",
+					"bgColor" : "0x32a692",
+					"bgAlpha" : 0.95,
+					"fontSize" : 18,
+					"textColor" : "0xffffff",
+					"textWidth" : 300
+				}
+			]
+		}
+	]
+}

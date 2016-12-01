@@ -1,0 +1,53 @@
+﻿{
+	"setting" :
+	{
+		"active" : true,
+
+		"name" : "NAME",
+		"email" : "E-MAIL",
+		"message" : "MESSAGE",
+
+		"sendButtonLabel" : "SEND",
+
+		"nameIsEmpty" : "** Username Required **",
+		"invalidEmail" : "** Missing field/Invalid email **",
+		"messageIsEmpty" : "** Message Required **",
+
+		"normalBgColor" : "0x333333",
+		"selectBgColor" : "0x32a692",
+		"bgOverAlpha" : 0,
+		"bgOutAlpha" : 0,
+		"normalBorderColor" : "0x121212",
+		"selectBorderColor" : "0x32a692",
+		"selectTextColor" : "0x121212",
+		"borderOverAlpha" : 1,
+		"borderOutAlpha" : 0.3,
+		"buttonBgOverColor" : "0xffffff",
+		"buttonBgOutColor" : "0x32a692",
+		"buttonTextOverColor" : "0x32a692",
+		"buttonTextOutColor" : "0xffffff",
+
+		"status" :
+		{
+			"sending" : "SENDING...",
+			"error" : "ERROR, TRY AGAIN!",
+			"success" : "MESSAGE SENT!"
+		}
+	},
+
+	"data" :
+	{
+		"textWidth" : 450,
+		"deviceTextWidth" : 620,
+		"textHeight" : 300,
+		"formWidth" : 350,
+		"imageWidth" : 300,
+		"imageHeight" : 300,
+		"imageurl" : "data/images/contact/01.jpg",
+		"mapLink" : "http://maps.google.com/",
+		"readMoreLabel" : "View on Google Map",
+		"title" : "CONTACT US",
+		"formTitle" : "MESSAGE BOX",
+		"description" : "<br/><a href='mailto:stephane.stiennon@gmail.com' target='_blank'>stephane.stiennon@gmail.com</a><br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut mauris at dolor rhoncus rhoncus. Quisque consequat sollicitudin lacus. <br/><br/>Donec luctus vestibulum erat, sed dignissim orci suscipit vel. Suspendisse accumsan mattis lacus."
+	}
+}
