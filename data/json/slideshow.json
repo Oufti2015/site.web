@@ -1,7 +1,7 @@
 ﻿{
 	"setting" :
 	{
-		"duration" : 5,
+		"duration" : 7,
 		"disableImageZoom" : false,
 		"marginLeft" : 0,
 		"marginRight" : 0,
@@ -58,7 +58,7 @@
 			"imageAlign" : "ct",
 			"x" : 100,
 			"y" : 250,
-			"align" : "left,top",
+			"align" : "right,bottom",
 			"deviceX" : 50,
 			"deviceY" : 450,
 			"deviceAlign" : "left,bottom",
@@ -100,7 +100,7 @@
 			"imageAlign" : "c",
 			"x" : 50,
 			"y" : 200,
-			"align" : "right,top",
+			"align" : "left,bottom",
 			"deviceX" : 50,
 			"deviceY" : 450,
 			"deviceAlign" : "left,bottom",
@@ -133,6 +133,47 @@
 					"fontSize" : 18,
 					"textColor" : "0xffffff",
 					"textWidth" : 300
+				}
+			]
+		},
+		{
+			"imageurl" : "data/images/slideshow/01.jpg",
+			"deviceImageurl" : "data/images/slideshow/device/01.jpg",
+			"imageAlign" : "ct",
+			"x" : 100,
+			"y" : 200,
+			"align" : "right,top",
+			"deviceX" : 50,
+			"deviceY" : 450,
+			"deviceAlign" : "left,bottom",
+			"gap" : 5,
+			"text" :
+			[
+				{
+					"title" : "Santons Wallons.",
+					"bgColor" : "0x32a692",
+					"bgAlpha" : 0.95,
+					"fontSize" : 30,
+					"textColor" : "0xffffff",
+					"textWidth" : 450
+				},
+				{
+					"title" : "Robert Noihomme, santonnier",
+					"link" : "http://www.santons.be",
+					"bgColor" : "0xffffff",
+					"bgAlpha" : 0.95,
+					"fontSize" : 18,
+					"textColor" : "0x32a692",
+					"textWidth" : 450
+				},
+				{
+					"title" : "Paul Wathelet",
+					"link" : "gallery-style1",
+					"bgColor" : "0x32a692",
+					"bgAlpha" : 0.95,
+					"fontSize" : 18,
+					"textColor" : "0xffffff",
+					"textWidth" : 380
 				}
 			]
 		}
